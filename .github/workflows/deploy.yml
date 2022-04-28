@@ -18,7 +18,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install python3 -y
           wget https://github.com/gohugoio/hugo/releases/download/v0.98.0/hugo_0.98.0_Linux-64bit.deb
-          dpkg -i hugo_0.98.0_Linux-64bit.deb
+          sudo dpkg -i hugo_0.98.0_Linux-64bit.deb
           sudo apt-get install -f -y
       - name: Checkout Notes
         uses: actions/checkout@v3
