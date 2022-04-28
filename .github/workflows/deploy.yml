@@ -27,7 +27,7 @@ jobs:
           repository: hattivatt/hugo_rpgs
           token: ${{ secrets.GH_PAT }}
           path: hugosite
-          submodules: 'true'
+          submodules: 'recursive'
       - name: Checkout Obsidian to Hugo converter
         uses: actions/checkout@v3
         with:
