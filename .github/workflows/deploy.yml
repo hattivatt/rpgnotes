@@ -41,7 +41,7 @@ jobs:
       - name: Generate Site From Notes
         run: |
           pwd
-          python3 obsidian-to-hugo/src --obsidian-vault-dir=notes/ --hugo-content-dir=hugosite/content/docs/bluetides
+          python3 obsidian-to-hugo/src --obsidian-vault-dir=/home/runner/work/rpgnotes/rpgnotes/notes --hugo-content-dir=/home/runner/work/rpgnotes/rpgnotes/hugosite/content/docs/bluetides
           cd hugosite
           hugo -d ../site
       - name: Push generated site
