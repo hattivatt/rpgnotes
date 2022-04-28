@@ -40,7 +40,7 @@ jobs:
           path: site
       - name: Generate Site From Notes
         run: |
-          python3 python obsidian-to-hugo/src --obsidian-vault-dir=notes/ --hugo-content-dir=hugosite/content/docs/bluetides
+          python3 obsidian-to-hugo/src --obsidian-vault-dir=notes/ --hugo-content-dir=hugosite/content/docs/bluetides
           cd hugosite
           hugo -d ../site
       - name: Push generated site
