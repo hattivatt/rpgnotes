@@ -16,7 +16,10 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install python3 hugo -y
+          sudo apt-get install python3 -y
+          wget https://github.com/gohugoio/hugo/releases/download/v0.98.0/hugo_0.98.0_Linux-64bit.deb
+          dpkg -i hugo_0.98.0_Linux-64bit.deb
+          sudo apt-get install -f -y
       - name: Checkout Notes
         uses: actions/checkout@v3
         with:
@@ -40,8 +43,6 @@ jobs:
           path: site
       - name: Generate Site From Notes
         run: |
-          pwd
-          ls ./hugosite/themes/eureka
           hugo version
           mkdir ./hugosite/content/docs/bluetides
           python3 obsidian-to-hugo/src --obsidian-vault-dir=./notes --hugo-content-dir=./hugosite/content/docs/bluetides
