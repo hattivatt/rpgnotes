@@ -42,6 +42,7 @@ jobs:
         run: |
           pwd
           ls ./hugosite/themes/eureka
+          hugo version
           mkdir ./hugosite/content/docs/bluetides
           python3 obsidian-to-hugo/src --obsidian-vault-dir=./notes --hugo-content-dir=./hugosite/content/docs/bluetides
           cd hugosite
