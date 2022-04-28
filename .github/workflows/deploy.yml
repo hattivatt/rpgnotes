@@ -1,0 +1,49 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    types: [opened, reopened, review_requested]
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install python3 hugo -y
+      - name: Checkout Notes
+        uses: actions/checkout@v3
+        with:
+          path: notes
+      - name: Checkout Hugo Site
+        uses: actions/checkout@v3
+        with:
+          repository: hattivatt/hugo_rpgs
+          token: ${{ secrets.GH_PAT }}
+          path: hugosite
+          submodules: 'true'
+      - name: Checkout Obsidian to Hugo converter
+        uses: actions/checkout@v3
+        with:
+          repository: devidw/obsidian-to-hugo
+          path: obsidian-to-hugo
+      - name: Checkout Site
+        uses: actions/checkout@v3
+        with:
+          repository: hattivatt/hattivatt.github.io
+          path: site
+      - name: Generate Site From Notes
+        run: |
+          ls -la
+
+          #      - name: Generate Site From Notes
+          #        run: |
+          #          python3 python obsidian-to-hugo/src --obsidian-vault-dir=./notes/ --hugo-content-dir=./hugosite/content/docs/bluetides
+          #          cd ./hugosite
+          #          hugo -d ./site
