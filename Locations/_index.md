@@ -2,6 +2,7 @@
 title: Места
 toc: true
 date: '2022-04-27'
+weight: 3
 draft: false
 ---
 
