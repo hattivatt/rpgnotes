@@ -41,6 +41,8 @@ jobs:
         with:
           repository: hattivatt/hattivatt.github.io
           path: site
+          persist-credentials: false
+          fetch-depth: 0
       - name: Generate Site From Notes
         run: |
           hugo version
