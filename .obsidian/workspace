@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "78308513aa304eba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4eaeb85fd8d22ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bluetidesl/Characters/Джадугара.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3344c405de7dd22e",
+    "type": "split",
+    "children": [
+      {
+        "id": "216d1c44e033ced5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6218c66c7eb68a96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "537bb3da6fc06a3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f6bd5d0fcbf866d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a3b70a4ce09fce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9cf848c356da379",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bluetidesl/Characters/Джадугара.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d4eaeb85fd8d22ce",
+  "lastOpenFiles": [
+    "bluetidesl/Characters/Джадугара.md",
+    "bluetidesl/Characters/Гадабу.md",
+    "bluetidesl/Characters/Абенти.md",
+    "bluetidesl/Organizations/Флот Габсбург.md",
+    "bluetidesl/Organizations/Серебряная лига.md",
+    "bluetidesl/Organizations/_index.md",
+    "bluetidesl/Locations/Форт Габсбург.md",
+    "bluetidesl/Locations/Тортуга.md",
+    "bluetidesl/Locations/Дырявая корма.md",
+    "bluetidesl/Locations/_index.md"
+  ]
+}
