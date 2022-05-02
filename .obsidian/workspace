@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetidesl/Characters/Джадугара.md",
+            "file": "bluetides/Characters/Проповедник.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetidesl/Characters/Джадугара.md",
+                "file": "bluetides/Characters/Проповедник.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
-    "bluetidesl/Characters/Джадугара.md",
-    "bluetidesl/Characters/Гадабу.md",
-    "bluetidesl/Characters/Абенти.md",
-    "bluetidesl/Organizations/Флот Габсбург.md",
-    "bluetidesl/Organizations/Серебряная лига.md",
-    "bluetidesl/Organizations/_index.md",
-    "bluetidesl/Locations/Форт Габсбург.md",
-    "bluetidesl/Locations/Тортуга.md",
-    "bluetidesl/Locations/Дырявая корма.md",
-    "bluetidesl/Locations/_index.md"
+    "bluetides/Characters/Проповедник.md",
+    "bluetides/Characters/Джадугара.md",
+    "bluetides/Characters/Гадабу.md",
+    "bluetides/Characters/Абенти.md",
+    "bluetides/Organizations/Флот Габсбург.md",
+    "bluetides/Organizations/Серебряная лига.md",
+    "bluetides/Organizations/_index.md",
+    "bluetides/Locations/Форт Габсбург.md",
+    "bluetides/Locations/Тортуга.md",
+    "bluetides/Locations/Дырявая корма.md"
   ]
 }
