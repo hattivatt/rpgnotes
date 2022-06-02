@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Characters/Доминго.md",
-            "mode": "source"
+            "file": "bluetides/PC/Никель.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Characters/Доминго.md",
+                "file": "bluetides/PC/Никель.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,8 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
+    "bluetides/PC/Никель.md",
+    "bluetides/PC/Бенджамин.md",
     "bluetides/Characters/Доминго.md",
     "bluetides/Characters/Каспар.md",
     "bluetides/Characters/Проповедник.md",
@@ -95,8 +98,6 @@
     "bluetides/Characters/Гадабу.md",
     "bluetides/Characters/Абенти.md",
     "bluetides/Organizations/Флот Габсбург.md",
-    "bluetides/Organizations/Серебряная лига.md",
-    "bluetides/Organizations/_index.md",
-    "bluetides/Locations/Форт Габсбург.md"
+    "bluetides/Organizations/Серебряная лига.md"
   ]
 }
