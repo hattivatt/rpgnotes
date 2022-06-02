@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/PC/Никель.md",
+            "file": "bluetides/PC/Сэто.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/PC/Никель.md",
+                "file": "bluetides/PC/Сэто.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
+    "bluetides/PC/Сэто.md",
     "bluetides/PC/Никель.md",
     "bluetides/PC/Бенджамин.md",
     "bluetides/Characters/Доминго.md",
@@ -97,7 +98,6 @@
     "bluetides/Characters/Джадугара.md",
     "bluetides/Characters/Гадабу.md",
     "bluetides/Characters/Абенти.md",
-    "bluetides/Organizations/Флот Габсбург.md",
-    "bluetides/Organizations/Серебряная лига.md"
+    "bluetides/Organizations/Флот Габсбург.md"
   ]
 }
