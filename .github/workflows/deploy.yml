@@ -47,6 +47,7 @@ jobs:
         run: |
           hugo version
           mkdir ./hugosite/content/docs/bluetides
+          rm -rf ./notes/Templates
           python3 obsidian-to-hugo/src --obsidian-vault-dir=./notes --hugo-content-dir=./hugosite/content/docs
           cd hugosite
           hugo -d ../site
