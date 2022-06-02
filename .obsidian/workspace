@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Characters/Проповедник.md",
+            "file": "bluetides/Characters/Доминго.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Characters/Проповедник.md",
+                "file": "bluetides/Characters/Доминго.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
+    "bluetides/Characters/Доминго.md",
+    "bluetides/Characters/Каспар.md",
     "bluetides/Characters/Проповедник.md",
     "bluetides/Characters/Джадугара.md",
     "bluetides/Characters/Гадабу.md",
@@ -95,8 +97,6 @@
     "bluetides/Organizations/Флот Габсбург.md",
     "bluetides/Organizations/Серебряная лига.md",
     "bluetides/Organizations/_index.md",
-    "bluetides/Locations/Форт Габсбург.md",
-    "bluetides/Locations/Тортуга.md",
-    "bluetides/Locations/Дырявая корма.md"
+    "bluetides/Locations/Форт Габсбург.md"
   ]
 }
