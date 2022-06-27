@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Organizations/_index.md",
+            "file": "bluetides/Organizations/Серебряная лига.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Organizations/_index.md",
+                "file": "bluetides/Organizations/Серебряная лига.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
-    "bluetides/Organizations/_index.md",
     "bluetides/Organizations/Серебряная лига.md",
+    "bluetides/Organizations/_index.md",
     "bluetides/Characters/Леди Сильвер.md",
     "bluetides/Characters/Гектор \"Шрам\" Бёрк.md",
     "bluetides/Locations/Тортуга.md",
