@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/PC/Никель.md",
+            "file": "bluetides/Locations/Форт Сильвер.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/PC/Никель.md",
+                "file": "bluetides/Locations/Форт Сильвер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
+    "bluetides/Locations/Форт Сильвер.md",
+    "bluetides/Locations/Остров черепа.md",
+    "bluetides/Locations/Тортуга.md",
+    "bluetides/Characters/Смитти \"Подрез\".md",
+    "bluetides/PC/Сэд.md",
+    "bluetides/PC/Бенджамин.md",
     "bluetides/PC/Никель.md",
     "bluetides/Characters/Сэто.md",
     "bluetides/Characters/Ганс.md",
-    "bluetides/Characters/Гадабу.md",
-    "bluetides/Characters/Катота.md",
-    "bluetides/Characters/Каспар.md",
-    "bluetides/Characters/Доминго.md",
-    "bluetides/Characters/Джунги.md",
-    "bluetides/Characters/Джадугара.md",
-    "bluetides/Characters/Антуан \"Руж\".md"
+    "bluetides/Characters/Гадабу.md"
   ]
 }
