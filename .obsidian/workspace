@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Locations/Форт Сильвер.md",
+            "file": "bluetides/Organizations/Флот Габсбург.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Locations/Форт Сильвер.md",
+                "file": "bluetides/Organizations/Флот Габсбург.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
-    "bluetides/Locations/Форт Сильвер.md",
-    "bluetides/Locations/Остров черепа.md",
-    "bluetides/Locations/Тортуга.md",
-    "bluetides/Characters/Смитти \"Подрез\".md",
-    "bluetides/PC/Сэд.md",
+    "bluetides/Organizations/Флот Габсбург.md",
+    "bluetides/Organizations/Серебряная лига.md",
     "bluetides/PC/Бенджамин.md",
-    "bluetides/PC/Никель.md",
-    "bluetides/Characters/Сэто.md",
-    "bluetides/Characters/Ганс.md",
-    "bluetides/Characters/Гадабу.md"
+    "bluetides/Characters/Гектор \"Шрам\" Бёрк.md",
+    "bluetides/Locations/Форт Сильвер.md",
+    "bluetides/Locations/Форт Габсбург.md",
+    "bluetides/Locations/Туманный остров.md",
+    "bluetides/Locations/Тортуга.md",
+    "bluetides/Locations/Серебряное перо.md",
+    "bluetides/Locations/Порт Роял.md"
   ]
 }
