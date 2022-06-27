@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/PC/Сэто.md",
+            "file": "bluetides/Characters/Сэто.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/PC/Сэто.md",
+                "file": "bluetides/Characters/Сэто.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
-    "bluetides/PC/Сэто.md",
-    "bluetides/PC/Никель.md",
-    "bluetides/PC/Бенджамин.md",
-    "bluetides/Characters/Доминго.md",
-    "bluetides/Characters/Каспар.md",
-    "bluetides/Characters/Проповедник.md",
-    "bluetides/Characters/Джадугара.md",
+    "bluetides/Characters/Сэто.md",
+    "bluetides/Characters/Ганс.md",
     "bluetides/Characters/Гадабу.md",
-    "bluetides/Characters/Абенти.md",
-    "bluetides/Organizations/Флот Габсбург.md"
+    "bluetides/Characters/Катота.md",
+    "bluetides/Characters/Каспар.md",
+    "bluetides/Characters/Доминго.md",
+    "bluetides/Characters/Джунги.md",
+    "bluetides/Characters/Джадугара.md",
+    "bluetides/Characters/Антуан \"Руж\".md",
+    "bluetides/Characters/Абенти.md"
   ]
 }
