@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Organizations/Серебряная лига.md",
+            "file": "bluetides/Characters/Гадабу.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Organizations/Серебряная лига.md",
+                "file": "bluetides/Characters/Гадабу.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
-    "bluetides/Organizations/Серебряная лига.md",
-    "bluetides/Organizations/_index.md",
-    "bluetides/Characters/Леди Сильвер.md",
-    "bluetides/Characters/Гектор \"Шрам\" Бёрк.md",
-    "bluetides/Locations/Тортуга.md",
-    "bluetides/Organizations/Флот Габсбург.md",
-    "bluetides/PC/Бенджамин.md",
-    "bluetides/Locations/Форт Сильвер.md",
-    "bluetides/Locations/Форт Габсбург.md",
-    "bluetides/Locations/Туманный остров.md"
+    "bluetides/Characters/Гадабу.md",
+    "bluetides/Characters/Антуан \"Руж\".md",
+    "bluetides/Characters/Абенти.md",
+    "bluetides/Characters/Фернандо фон Габсбург.md",
+    "bluetides/Characters/Сэто.md",
+    "bluetides/Characters/Старьевщик.md",
+    "bluetides/Characters/Старик Мигель.md",
+    "bluetides/Characters/Смитти \"Подрез\".md",
+    "bluetides/Characters/Проповедник.md",
+    "bluetides/Characters/Лионель.md"
   ]
 }
