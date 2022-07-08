@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Characters/Гадабу.md",
+            "file": "bluetides/Characters/Ганс Бергманн.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Characters/Гадабу.md",
+                "file": "bluetides/Characters/Ганс Бергманн.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
+    "bluetides/Characters/Ганс Бергманн.md",
     "bluetides/Characters/Гадабу.md",
     "bluetides/Characters/Антуан \"Руж\".md",
     "bluetides/Characters/Абенти.md",
@@ -97,7 +98,6 @@
     "bluetides/Characters/Старьевщик.md",
     "bluetides/Characters/Старик Мигель.md",
     "bluetides/Characters/Смитти \"Подрез\".md",
-    "bluetides/Characters/Проповедник.md",
-    "bluetides/Characters/Лионель.md"
+    "bluetides/Characters/Проповедник.md"
   ]
 }
