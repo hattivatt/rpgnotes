@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/PC/Сэд.md",
+            "file": "bluetides/Characters/_index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/PC/Сэд.md",
+                "file": "bluetides/Characters/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
-    "bluetides/PC/Сэд.md",
-    "bluetides/Characters/Ганс Бергманн.md",
-    "bluetides/Characters/Гадабу.md",
-    "bluetides/Characters/Антуан \"Руж\".md",
-    "bluetides/Characters/Абенти.md",
+    "bluetides/Characters/_index.md",
     "bluetides/Characters/Фернандо фон Габсбург.md",
     "bluetides/Characters/Сэто.md",
     "bluetides/Characters/Старьевщик.md",
     "bluetides/Characters/Старик Мигель.md",
-    "bluetides/Characters/Смитти \"Подрез\".md"
+    "bluetides/Characters/Смитти \"Подрез\".md",
+    "bluetides/Characters/Проповедник.md",
+    "bluetides/Characters/Лионель.md",
+    "bluetides/Characters/Леди Сильвер.md",
+    "bluetides/Characters/Катота.md"
   ]
 }
