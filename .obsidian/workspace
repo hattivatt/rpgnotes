@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Characters/Джунги.md",
+            "file": "bluetides/PC/Сэд.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Characters/Джунги.md",
+                "file": "bluetides/PC/Сэд.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
+    "bluetides/PC/Сэд.md",
+    "bluetides/PC/Никель.md",
+    "bluetides/PC/Бенджамин.md",
+    "bluetides/Locations/Тортуга.md",
+    "bluetides/Locations/Дырявая корма.md",
+    "bluetides/Locations/Берег костей.md",
+    "bluetides/Characters/Джадугара.md",
+    "bluetides/Characters/Гомес.md",
     "bluetides/Characters/Джунги.md",
-    "bluetides/Characters/Тетис.md",
-    "bluetides/Characters/Бенджи.md",
-    "bluetides/Characters/Адриан.md",
-    "bluetides/Characters/Антуан \"Руж\".md",
-    "bluetides/Characters/Абенти.md",
-    "bluetides/Characters/_index.md",
-    "bluetides/Characters/Фернандо фон Габсбург.md",
-    "bluetides/Characters/Сэто.md",
-    "bluetides/Characters/Старьевщик.md"
+    "bluetides/Characters/Тетис.md"
   ]
 }
