@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Characters/Старьевщик.md",
+            "file": "bluetides/Characters/Тетис.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Characters/Старьевщик.md",
+                "file": "bluetides/Characters/Тетис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
+    "bluetides/Characters/Тетис.md",
     "bluetides/Characters/Старьевщик.md",
     "bluetides/Characters/Сэто.md",
-    "bluetides/Characters/Тетис.md",
     "bluetides/PC/Сэд.md",
     "bluetides/PC/Никель.md",
     "bluetides/PC/Бенджамин.md",
