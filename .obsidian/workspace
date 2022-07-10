@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/Characters/Тетис.md",
+            "file": "bluetides/Characters/Старьевщик.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/Characters/Тетис.md",
+                "file": "bluetides/Characters/Старьевщик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
-    "bluetides/Characters/Тетис.md",
     "bluetides/Characters/Старьевщик.md",
+    "bluetides/Characters/Старик Мигель.md",
+    "bluetides/Characters/Смитти \"Подрез\".md",
+    "bluetides/Characters/Проповедник.md",
     "bluetides/Characters/Сэто.md",
-    "bluetides/PC/Сэд.md",
-    "bluetides/PC/Никель.md",
-    "bluetides/PC/Бенджамин.md",
-    "bluetides/Locations/Тортуга.md",
-    "bluetides/Locations/Дырявая корма.md",
-    "bluetides/Locations/Берег костей.md",
-    "bluetides/Characters/Джадугара.md"
+    "bluetides/Characters/Тетис.md",
+    "bluetides/Characters/Фернандо фон Габсбург.md",
+    "bluetides/Characters/Гектор \"Шрам\" Бёрк.md",
+    "bluetides/Characters/Ганс Бергманн.md",
+    "bluetides/Characters/Гадабу.md"
   ]
 }
