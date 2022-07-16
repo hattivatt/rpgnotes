@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bluetides/PC/Сэд.md",
+            "file": "bluetides/Characters/Мортимер Армстронг.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bluetides/PC/Сэд.md",
+                "file": "bluetides/Characters/Мортимер Армстронг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "d4eaeb85fd8d22ce",
   "lastOpenFiles": [
+    "bluetides/PC/Сэд.md",
     "bluetides/PC/Бенджамин.md",
     "bluetides/PC/Никель.md",
-    "bluetides/PC/Сэд.md",
     "bluetides/Organizations/Флот Габсбург.md",
     "bluetides/Organizations/Серебряная лига.md",
     "bluetides/Locations/Форт Сильвер.md",
