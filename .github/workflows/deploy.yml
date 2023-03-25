@@ -49,7 +49,7 @@ jobs:
           mkdir ./hugosite/content/docs/bluetides
           rm -rf ./notes/Templates
           ls -la obsidian-to-hugo/src/
-          python3 obsidian-to-hugo/src/obsidian-to-hugo --obsidian-vault-dir=./notes --hugo-content-dir=./hugosite/content/docs
+          python3 obsidian-to-hugo/src/obsidian_to_hugo --obsidian-vault-dir=./notes --hugo-content-dir=./hugosite/content/docs
           cd hugosite
           hugo -d ../site
       - name: Push generated site
