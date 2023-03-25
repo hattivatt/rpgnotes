@@ -16,7 +16,8 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install python3 -y
+          sudo apt-get install python3 pip3 -y
+          sudo pip install obsidian-to-hugo
           wget https://github.com/gohugoio/hugo/releases/download/v0.98.0/hugo_0.98.0_Linux-64bit.deb
           sudo dpkg -i hugo_0.98.0_Linux-64bit.deb
           sudo apt-get install -f -y
@@ -31,11 +32,6 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           path: hugosite
           submodules: 'recursive'
-      - name: Checkout Obsidian to Hugo converter
-        uses: actions/checkout@v3
-        with:
-          repository: devidw/obsidian-to-hugo
-          path: obsidian-to-hugo
       - name: Checkout Site
         uses: actions/checkout@v3
         with:
@@ -48,8 +44,7 @@ jobs:
           hugo version
           mkdir ./hugosite/content/docs/bluetides
           rm -rf ./notes/Templates
-          ls -la obsidian-to-hugo/src/
-          python3 obsidian-to-hugo/src/obsidian_to_hugo --obsidian-vault-dir=./notes --hugo-content-dir=./hugosite/content/docs
+          python3 -m obsidian_to_hugo --obsidian-vault-dir=./notes --hugo-content-dir=./hugosite/content/docs
           cd hugosite
           hugo -d ../site
       - name: Push generated site
